@@ -11,8 +11,9 @@ This curated list is on very early stage. So, let's make it together!
  
 ### Emoji supports
 
- - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
-   [Plugin and example](https://github.com/bmironov/summernote-emojione-plugin)
+ 
+ - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
+   - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
 
 ## How to add
 
