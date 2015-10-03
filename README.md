@@ -5,13 +5,8 @@ This curated list is on very early stage. So, let's make it together!
 
 ## List
 
-### Embedding
+### Emoji
 
- - 
- 
-### Emoji supports
-
- 
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
