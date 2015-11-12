@@ -11,6 +11,8 @@ This curated list is on very early stage. So, let's make it together!
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
    - A dropdown list of my favorite emojiOne images, embedded as base64 strings for easy portability
+ - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
+   - Emoji plugin for summernote
 
 ###Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
