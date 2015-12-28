@@ -20,6 +20,10 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-fontawesome](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-fontawesome)
    - A modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
 
+### Insert
+- [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
+   - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
+
 ## How to add
 
  1. Make [a repository](https://github.com/new) or [a gist](https://gist.github.com/) of your module.
