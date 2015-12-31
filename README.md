@@ -5,8 +5,11 @@ This curated list is on very early stage. So, let's make it together!
 
 ## List
 
-### Emojis
+### Syntax
+ - [summernote-ext-highlight](https://github.com/heyanlong/summernote-ext-highlight)
+   - Based on code-prettify the summernote code highlighting plugin
 
+### Emojis
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
@@ -14,7 +17,7 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
    - Emoji plugin for summernote
 
-###Special Characters & Icons
+### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
    - A few tweaks to the official plugin, revising the view and making it more mobile-friendly
  - [summernote-fontawesome](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-fontawesome)
