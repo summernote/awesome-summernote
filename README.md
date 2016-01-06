@@ -24,8 +24,13 @@ This curated list is on very early stage. So, let's make it together!
    - A modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
 
 ### Insert
-- [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
+ - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
+
+### Misc
+ - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
+   - Add print button on toolbar. This allows summernote to print its own document, not whole page.
+
 
 ## How to add
 
