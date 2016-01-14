@@ -36,6 +36,13 @@ This curated list is on very early stage. So, let's make it together!
    - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
  - [meteor-autoform-summernote](https://github.com/mpowaga/meteor-autoform-summernote)
    - Add WYSIWYG editor to your Meteor app.
+ - [angular-summernote](https://github.com/summernote/angular-summernote)
+   - AngularJS directive to Summernote
+ - [summernote-rails](https://github.com/summernote/summernote-rails)
+   - To gemify the summernote WYSIWYG editor for Rails >= 3.1
+ - [django-summernote](https://github.com/summernote/django-summernote)
+   - Simply integrate Summernote editor with Django project.
+
 
 ## How to add
 
