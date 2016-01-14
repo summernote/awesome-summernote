@@ -31,6 +31,11 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
 
+### Connector
+ - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
+   - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
+ - [meteor-autoform-summernote](https://github.com/mpowaga/meteor-autoform-summernote)
+   - Add WYSIWYG editor to your Meteor app.
 
 ## How to add
 
