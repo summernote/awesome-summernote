@@ -1,9 +1,9 @@
 # awesome-summernote
-A curated list for [summernote](https://github.com/summernote/summernote/) external modules.
+A curated list for [summernote](https://github.com/summernote/summernote/) plugins and connectors.
 
 This curated list is on very early stage. So, let's make it together!
 
-## List
+## Plugins
 
 ### Syntax
  - [summernote-ext-highlight](https://github.com/heyanlong/summernote-ext-highlight)
@@ -31,7 +31,7 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
 
-### Connector
+## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
    - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
  - [meteor-autoform-summernote](https://github.com/mpowaga/meteor-autoform-summernote)
