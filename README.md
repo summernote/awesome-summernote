@@ -42,6 +42,8 @@ This curated list is on very early stage. So, let's make it together!
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
  - [django-summernote](https://github.com/summernote/django-summernote)
    - Simply integrate Summernote editor with Django project.
+ - [gnuboard5-summernote](https://github.com/easylogic/gnuboard5-summernote)
+   - Editor Plugin for GnuBoard v5.
 
 
 ## How to add
