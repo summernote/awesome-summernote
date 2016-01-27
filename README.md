@@ -45,6 +45,9 @@ This curated list is on very early stage. So, let's make it together!
  - [gnuboard5-summernote](https://github.com/easylogic/gnuboard5-summernote)
    - Editor Plugin for GnuBoard v5.
 
+## Examples
+
+ - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
 
 ## How to add
 
