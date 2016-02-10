@@ -31,6 +31,9 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
 
+ - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
+   - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
+
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
    - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
