@@ -51,6 +51,7 @@ This curated list is on very early stage. So, let's make it together!
 ## Examples
 
  - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
+ - [summernote-meteor-example] (https://github.com/hackerwins/summernote-meteor-example)
 
 ## How to add
 
