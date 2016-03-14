@@ -27,6 +27,10 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
 
+### File Manager
+ - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
+   - A simple and powerfull file manager
+
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
