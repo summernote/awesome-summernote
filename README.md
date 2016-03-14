@@ -26,6 +26,8 @@ This curated list is on very early stage. So, let's make it together!
 ### Insert
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
+ - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
+   - Summernote Plugin for elFinder File Manager
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
