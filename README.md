@@ -32,7 +32,6 @@ This curated list is on very early stage. So, let's make it together!
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
-
  - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
 
@@ -51,12 +50,10 @@ This curated list is on very early stage. So, let's make it together!
    - Editor Plugin for GnuBoard v5.
 
 ## Examples
-
  - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
  - [summernote-meteor-example] (https://github.com/hackerwins/summernote-meteor-example)
 
 ## How to add
-
  1. Make [a repository](https://github.com/new) or [a gist](https://gist.github.com/) of your module.
  2. Create [a pull request](https://github.com/summernote/awesome-summernote/pulls) or [an issue](https://github.com/summernote/awesome-summernote/issues/new) with your module information.
  3. P R O F I T 
