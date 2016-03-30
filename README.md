@@ -34,6 +34,8 @@ This curated list is on very early stage. So, let's make it together!
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
  - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
+ - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
+   - Adds a button to the image popover to edit title and alt attributes.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
