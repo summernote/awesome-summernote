@@ -36,6 +36,8 @@ This curated list is on very early stage. So, let's make it together!
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
  - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
    - Adds a button to the image popover to edit title and alt attributes.
+ - [summernote-save-button](https://github.com/StudioJunkyard/summernote-save-button)
+   - Adds a Save Button when Summenote is used within a form
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
