@@ -54,6 +54,8 @@ This curated list is on very early stage. So, let's make it together!
    - Simply integrate Summernote editor with Django project.
  - [gnuboard5-summernote](https://github.com/easylogic/gnuboard5-summernote)
    - Editor Plugin for GnuBoard v5.
+ - [android-summernote](https://github.com/AvinashSKaranth/android-summernote)
+   - WYSIWYG HTML Editor View with Android App
 
 ## Examples
  - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
