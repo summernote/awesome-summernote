@@ -8,6 +8,8 @@ This curated list is on very early stage. So, let's make it together!
 ### Syntax
  - [summernote-ext-highlight](https://github.com/heyanlong/summernote-ext-highlight)
    - Based on code-prettify the summernote code highlighting plugin
+ - [summernote-ace-plugin](https://github.com/wubin1989/summernote-ace-plugin)
+   - Based on Ace(https://ace.c9.io/#nav=about) the summernote code highlighting plugin
 
 ### Emojis
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
