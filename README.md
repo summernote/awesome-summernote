@@ -57,6 +57,10 @@ This curated list is on very early stage. So, let's make it together!
  - [android-summernote](https://github.com/AvinashSKaranth/android-summernote)
    - WYSIWYG HTML Editor View with Android App
 
+## Themes and Skins
+- [summernote-libreicons-theme](https://github.com/StudioJunkyard/LibreICONS/tree/master/themes/summernote)
+   - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
+
 ## Examples
  - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
  - [summernote-meteor-example] (https://github.com/hackerwins/summernote-meteor-example)
