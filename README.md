@@ -42,6 +42,8 @@ This curated list is on very early stage. So, let's make it together!
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
  - [summernote-save-button](https://github.com/StudioJunkyard/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
+ - [summernote-cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
+   - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
