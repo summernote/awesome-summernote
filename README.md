@@ -30,6 +30,8 @@ This curated list is on very early stage. So, let's make it together!
    - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
    - Summernote Plugin for elFinder File Manager
+ - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
+   - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
