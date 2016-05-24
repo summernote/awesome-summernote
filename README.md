@@ -44,6 +44,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a button to the image popover to edit title and alt attributes.
  - [summernote-image-attributes](https://github.com/StudioJunkyard/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
+ - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs) 
+   - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-save-button](https://github.com/StudioJunkyard/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
  - [summernote-cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
