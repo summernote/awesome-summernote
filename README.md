@@ -32,6 +32,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote Plugin for elFinder File Manager
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
+ - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
+   - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
