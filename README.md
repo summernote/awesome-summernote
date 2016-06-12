@@ -50,6 +50,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Save Button when Summenote is used within a form
  - [summernote-cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
+ - [summernote-keywords](https://github.com/StudioJunkyard/summernote-keywords)
+   - Adds a Button to the toolbar that extracts Keywords for SEO purposes, and depending on the options set can place them in an input field, or HTML Element. 
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
