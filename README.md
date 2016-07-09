@@ -62,6 +62,8 @@ This curated list is on very early stage. So, let's make it together!
    - Add WYSIWYG editor to your Meteor app.
  - [angular-summernote](https://github.com/summernote/angular-summernote)
    - AngularJS directive to Summernote
+ - [react-summernote](https://github.com/Vnkitaev/react-summernote)
+   - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
  - [django-summernote](https://github.com/summernote/django-summernote)
