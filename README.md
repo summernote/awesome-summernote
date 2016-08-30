@@ -1,7 +1,23 @@
-# awesome-summernote
+# Awesome Summernote
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
+
 A curated list for [summernote](https://github.com/summernote/summernote/) plugins and connectors.
 
 This curated list is on very early stage. So, let's make it together!
+
+## Contents
+- [Plugins](#plugins)
+  - [Syntax](#syntax)
+  - [Emojis](#emojis)
+  - [Special Characters & Icons](#special-characters-&-icons)
+  - [Insert](#insert)
+  - [Misc](#misc)
+- [Connectors](#connectors)
+- [Themes and Skins](#themes-and-skins)
+- [Examples](#examples)
+- [Contributing and License](#contributing-and-license)
 
 ## Plugins
 
@@ -46,7 +62,7 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a button to the image popover to edit title and alt attributes.
  - [summernote-image-attributes](https://github.com/StudioJunkyard/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
- - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs) 
+ - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-save-button](https://github.com/StudioJunkyard/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
@@ -78,10 +94,11 @@ This curated list is on very early stage. So, let's make it together!
    - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
 
 ## Examples
- - [summernote-webpack-example] (https://github.com/hackerwins/summernote-webpack-example)
- - [summernote-meteor-example] (https://github.com/hackerwins/summernote-meteor-example)
+ - [summernote-webpack-example](https://github.com/hackerwins/summernote-webpack-example)
+ - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
 
-## How to add
- 1. Make [a repository](https://github.com/new) or [a gist](https://gist.github.com/) of your module.
- 2. Create [a pull request](https://github.com/summernote/awesome-summernote/pulls) or [an issue](https://github.com/summernote/awesome-summernote/issues/new) with your module information.
- 3. P R O F I T 
+## Contributing and License
+
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome summernote list as well. Big thanks to all [contributors](https://github.com/summernote/awesome-summernote/graphs/contributors) who have helped to build this list.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
