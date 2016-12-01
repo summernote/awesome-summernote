@@ -72,6 +72,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-seo](https://github.com/StudioJunkyard/summernote-seo)
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
+ - [summernote-video-attributes](https://github.com/StudioJunkyard/summernote-video-attributes)
+   - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
