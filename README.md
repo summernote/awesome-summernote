@@ -35,19 +35,19 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
-   - A dropdown list of my favorite emojiOne images, embedded as base64 strings for easy portability
+   - Dropdown list of my favorite emojiOne images, embedded as base64 strings for easy portability
  - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
    - Emoji plugin for summernote
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
-   - A few tweaks to the official plugin, revising the view and making it more mobile-friendly
+   - Few tweaks to the official specialchars plugin, revising the view and making it more mobile-friendly
  - [summernote-fontawesome](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-fontawesome)
-   - A modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
+   - Modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
 
 ### Insert
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
-   - A dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
+   - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
    - Summernote Plugin for elFinder File Manager
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
@@ -55,7 +55,7 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
    - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
  - [summernote-map-plugin](https://github.com/maiyaporn/summernote-map-plugin)
-   - A plugin for adding map to Summernote. It allows users to search for places with autocomplete (Google Places API) and add an embed map of the selected place to editor.
+   - Plugin for adding map to Summernote. It allows users to search for places with autocomplete (Google Places API) and add an embed map of the selected place to editor.
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
