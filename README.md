@@ -42,6 +42,8 @@ This curated list is on very early stage. So, let's make it together!
    - A few tweaks to the official plugin, revising the view and making it more mobile-friendly
  - [summernote-fontawesome](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-fontawesome)
    - A modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
+ - [summernote-libreicons-theme](https://github.com/StudioJunkyard/LibreICONS/tree/master/themes/summernote)
+   - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
 
 ### Insert
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
