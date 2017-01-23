@@ -76,6 +76,10 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-video-attributes](https://github.com/StudioJunkyard/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
+ - [summernote-image-captionit](https://github.com/StudioJunkyard/summernote-image-captionit)
+   - Adds Button to Image Popup that allows adding Figure and FigCaption from TITLE or ALT tags. Edit
+ - [summernote-image-shapes](https://github.com/StudioJunkyard/summernote-image-shapes)
+   - Adds Button to Image Popup that allows adding Classes for Bootstraps Image Shapes. Edit
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
