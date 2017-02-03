@@ -80,6 +80,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds Button to Image Popup that allows adding Figure and FigCaption from TITLE or ALT tags. Edit
  - [summernote-image-shapes](https://github.com/StudioJunkyard/summernote-image-shapes)
    - Adds Button to Image Popup that allows adding Classes for Bootstraps Image Shapes. Edit
+ - [summernote-text-findnreplace](https://github.com/StudioJunkyard/summernote-text-findnreplace)
+   - Adds Button to the Toolbar that opens a Modal to allow Finding Text, and Replacing.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
