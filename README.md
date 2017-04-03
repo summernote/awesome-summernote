@@ -1,6 +1,5 @@
 # Awesome Summernote
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 
 [<img src="https://avatars0.githubusercontent.com/u/7778517" align="right" width="100">](http://summernote.org/)
