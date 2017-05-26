@@ -58,6 +58,10 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-nugget](https://github.com/pHAlkaline/summernote-plugins/tree/master/plugins/nugget)
    - Pre-defined custom code nuggets. You can add your own nuggets and insert them in the editor in one click.
 
+### File Manager
+ - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
+   - A simple and powerfull file manager
+
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
