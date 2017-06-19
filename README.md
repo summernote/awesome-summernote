@@ -77,6 +77,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-video-attributes](https://github.com/StudioJunkyard/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
+ - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
+     - Allows users to save and load drafts directly on the editor.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
