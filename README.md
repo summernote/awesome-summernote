@@ -37,6 +37,8 @@ This curated list is on very early stage. So, let's make it together!
    - Dropdown list of my favorite emojiOne images, embedded as base64 strings for easy portability
  - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
    - Emoji plugin for summernote
+ - [summernote-ext-emoji-ajax](https://github.com/tylerecouture/summernote-ext-emoji-ajax/)
+   - Uses the github emoji api and loads them via ajax.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
