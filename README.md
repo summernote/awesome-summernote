@@ -81,6 +81,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
      - Allows users to save and load drafts directly on the editor.
+ - [summernote-add-text-tags](https://github.com/tylerecouture/summernote-add-text-tags)
+     - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
 
 ## Connectors
  - [Ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
