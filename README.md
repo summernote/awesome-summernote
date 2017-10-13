@@ -47,6 +47,8 @@ This curated list is on very early stage. So, let's make it together!
    - Modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
 
 ### Insert
+ - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
+   - A summernote module to add user-friendly components to the WYSIWYG editor.
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
