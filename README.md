@@ -69,17 +69,17 @@ This curated list is on very early stage. So, let's make it together!
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
  - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
    - Adds a button to the image popover to edit title and alt attributes.
- - [summernote-image-attributes](https://github.com/StudioJunkyard/summernote-image-attributes)
+ - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
- - [summernote-save-button](https://github.com/StudioJunkyard/summernote-save-button)
+ - [summernote-save-button](https://github.com/DiemenDesign/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
- - [summernote-cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
+ - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
- - [summernote-seo](https://github.com/StudioJunkyard/summernote-seo)
+ - [summernote-seo](https://github.com/DiemenDesign/summernote-seo)
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
- - [summernote-video-attributes](https://github.com/StudioJunkyard/summernote-video-attributes)
+ - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
      - Allows users to save and load drafts directly on the editor.
@@ -105,7 +105,7 @@ This curated list is on very early stage. So, let's make it together!
    - WYSIWYG HTML Editor View with Android App
 
 ## Themes and Skins
-- [summernote-libreicons-theme](https://github.com/StudioJunkyard/LibreICONS/tree/master/themes/summernote)
+- [summernote-libreicons-theme](https://github.com/DiemenDesign/LibreICONS/tree/master/themes/summernote)
    - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
 
 ## Examples
