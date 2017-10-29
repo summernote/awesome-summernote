@@ -61,6 +61,8 @@ This curated list is on very early stage. So, let's make it together!
    - Plugin for adding map to Summernote. It allows users to search for places with autocomplete (Google Places API) and add an embed map of the selected place to editor.
  - [summernote-nugget](https://github.com/pHAlkaline/summernote-plugins/tree/master/plugins/nugget)
    - Pre-defined custom code nuggets. You can add your own nuggets and insert them in the editor in one click.
+ - [summernote-loremipsum](https://github.com/DiemenDesign/summernote-loremipsum)
+   - Add Toolbar button with Dropdown to insert random Lorem Ipsum Paragraph or Sentence, handy for placeholder text.
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
