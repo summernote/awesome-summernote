@@ -1,0 +1,5 @@
+sudo: false
+install:
+  - pip install -q -U slmd
+script:
+  - slmd README.md
