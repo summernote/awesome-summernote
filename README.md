@@ -68,6 +68,8 @@ This curated list is on very early stage. So, let's make it together!
    - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
+ - [dummy-plugin](blahblah)
+   - This is just for testing
 
 ### Misc
  - [summernote-add-text-tags](https://github.com/tylerecouture/summernote-add-text-tags)
