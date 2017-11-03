@@ -5,4 +5,5 @@ python:
 install:
   - pip install -q -U slmd
 script:
-  - slmd README.md
+  - slmd README.md output.md
+  - diff -u README.md output.md
