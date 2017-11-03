@@ -24,8 +24,6 @@ This curated list is on very early stage. So, let's make it together!
    - WYSIWYG HTML Editor View with Android App
  - [angular-summernote](https://github.com/summernote/angular-summernote)
    - AngularJS directive to Summernote
- - [django-summernote](https://github.com/summernote/django-summernote)
-   - Simply integrate Summernote editor with Django project.
  - [ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
    - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
  - [gnuboard5-summernote](https://github.com/easylogic/gnuboard5-summernote)
@@ -36,6 +34,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
+ - [django-summernote](https://github.com/summernote/django-summernote)
+   - Simply integrate Summernote editor with Django project.
 
 ## Examples
  - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
