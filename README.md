@@ -71,11 +71,13 @@ This curated list is on very early stage. So, let's make it together!
 
 ### Misc
  - [summernote-add-text-tags](https://github.com/tylerecouture/summernote-add-text-tags)
+   - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
  - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
  - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
+   - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
@@ -83,6 +85,7 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
  - [summernote-image-shapes](https://github.com/DiemenDesign/summernote-image-shapes)
+   - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
  - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
    - Adds a button to the image popover to edit title and alt attributes.
  - [summernote-save-button](https://github.com/DiemenDesign/summernote-save-button)
@@ -91,9 +94,6 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
-     - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
-     - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
-     - Allows users to save and load drafts directly on the editor.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
