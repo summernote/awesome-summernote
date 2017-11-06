@@ -16,7 +16,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
 - Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
+- Link additions should be added in right place. We're organizing them in alphabetical order. You can use [slmd](https://github.com/lqez/slmd) for sorting them easily.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
