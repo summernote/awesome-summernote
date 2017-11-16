@@ -68,6 +68,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
+ - [summenote-templates](https://github.com/DiemenDesign/summernote-templates)
+   - Add Toolbar Buttons to add Page and Block Templates from html template files.
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
 
