@@ -88,6 +88,8 @@ This curated list is on very early stage. So, let's make it together!
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
+ - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
+   - Allows adding figure and figcaption to images, with removal when selected twice.
  - [summernote-image-shapes](https://github.com/DiemenDesign/summernote-image-shapes)
    - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
  - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
