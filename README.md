@@ -18,6 +18,7 @@ This curated list is on very early stage. So, let's make it together!
   - [Special Characters & Icons](#special-characters-&-icons)
   - [Syntax](#syntax)
 - [Themes and Skins](#themes-and-skins)
+- [Tutorials](#tutorials)
 
 ## Connectors
  - [android-summernote](https://github.com/AvinashSKaranth/android-summernote)
@@ -120,6 +121,10 @@ This curated list is on very early stage. So, let's make it together!
 ## Themes and Skins
 - [summernote-libreicons-theme](https://github.com/DiemenDesign/LibreICONS/tree/master/themes/summernote)
    - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
+
+## Tutorials
+- [summernote-plugins a Guide](https://github.com/DiemenDesign/summernote-plugins)
+  - A Guide to installing, adding, and making Plugins for Summernote
 
 ## Contributing and License
 
