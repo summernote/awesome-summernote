@@ -108,6 +108,8 @@ This curated list is on very early stage. So, let's make it together!
    - Modification of specialchars, inserts Font Awesome symbols instead.  View all the icons or search for them by name.
 
 ### Syntax
+ - [summernote-a11y](https://github.com/DiemenDesign/summernote-a11y)
+   - Accessibility Checker that uses CSS to check Elements inside the Summernote Editing Area.
  - [summernote-ace-plugin](https://github.com/wubin1989/summernote-ace-plugin)
    - Based on Ace(https://ace.c9.io/#nav=about) the summernote code highlighting plugin
  - [summernote-ext-codewrapper](https://github.com/semplon/summernote-ext-codewrapper)
