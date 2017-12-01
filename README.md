@@ -45,6 +45,9 @@ This curated list is on very early stage. So, let's make it together!
 ## Plugins
 
 ### Emojis
+ - [summernote-emoji](https://github.com/trinhtam/summernote-emoji)
+   - Summernote emoji plugin pro
+ - [summernote-emoji](https://github.com/trinhtam/summernote-emoj
  - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
    - Emoji plugin for summernote
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
