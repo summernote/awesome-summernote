@@ -85,6 +85,8 @@ This curated list is on very early stage. So, let's make it together!
    - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
+ - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
+   - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
