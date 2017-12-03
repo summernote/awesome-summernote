@@ -65,6 +65,8 @@ This curated list is on very early stage. So, let's make it together!
    - Plugin for adding map to Summernote. It allows users to search for places with autocomplete (Google Places API) and add an embed map of the selected place to editor.
  - [summernote-nugget](https://github.com/pHAlkaline/summernote-plugins/tree/master/plugins/nugget)
    - Pre-defined custom code nuggets. You can add your own nuggets and insert them in the editor in one click.
+ - [summernote-pagebreak](https://github.com/DiemenDesign/summernote-pagebreak)
+   - Visually add Page-Breaks to editor content.
  - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
    - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
