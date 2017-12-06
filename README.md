@@ -37,6 +37,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
+ - [aurelia-summernote](https://github.com/ben-girardet/aurelia-summernote)
+   - Wrap Summernote WYSIWYG editor into an aurelia custom element
 
 ## Examples
  - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
