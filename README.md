@@ -25,6 +25,8 @@ This curated list is on very early stage. So, let's make it together!
    - WYSIWYG HTML Editor View with Android App
  - [angular-summernote](https://github.com/summernote/angular-summernote)
    - AngularJS directive to Summernote
+ - [aurelia-summernote](https://github.com/ben-girardet/aurelia-summernote)
+   - Wrap Summernote WYSIWYG editor into an aurelia custom element
  - [django-summernote](https://github.com/summernote/django-summernote)
    - Simply integrate Summernote editor with Django project.
  - [ember-cli-summernote](https://github.com/vsymguysung/ember-cli-summernote)
@@ -37,8 +39,6 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
- - [aurelia-summernote](https://github.com/ben-girardet/aurelia-summernote)
-   - Wrap Summernote WYSIWYG editor into an aurelia custom element
 
 ## Examples
  - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
@@ -89,8 +89,6 @@ This curated list is on very early stage. So, let's make it together!
    - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
- - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
-   - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
@@ -105,6 +103,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Save Button when Summenote is used within a form
  - [summernote-seo](https://github.com/DiemenDesign/summernote-seo)
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
+ - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
+   - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
 
