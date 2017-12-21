@@ -61,6 +61,7 @@ This curated list is on very early stage. So, let's make it together!
    - A summernote module to add user-friendly components to the WYSIWYG editor.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
    - Summernote Plugin for elFinder File Manager
+   - [Connector Instructions Wiki on elFinder's Repository](https://github.com/Studio-42/elFinder/wiki/Integration-with-Multiple-Summernote-%28fixed-functions%29)
  - [summernote-loremipsum](https://github.com/DiemenDesign/summernote-loremipsum)
    - Add Toolbar button with Dropdown to insert random Lorem Ipsum Paragraph or Sentence, handy for placeholder text.
  - [summernote-map-plugin](https://github.com/maiyaporn/summernote-map-plugin)
