@@ -100,6 +100,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
  - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
    - Adds a button to the image popover to edit title and alt attributes.
+ - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
+   - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
  - [summernote-save-button](https://github.com/DiemenDesign/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
  - [summernote-seo](https://github.com/DiemenDesign/summernote-seo)
@@ -108,8 +110,6 @@ This curated list is on very early stage. So, let's make it together!
    - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
- - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
-   - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
