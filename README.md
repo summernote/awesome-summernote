@@ -47,13 +47,12 @@ This curated list is on very early stage. So, let's make it together!
 ## Plugins
 
 ### Emojis
- - [summernote-emoji](https://github.com/trinhtam/summernote-emoji)
-   - Summernote emoji plugin pro
- - [summernote-emoji](https://github.com/trinhtam/summernote-emoj
  - [summernote-emoji-ext](https://github.com/nilobarp/summernote-ext-emoji)
    - Emoji plugin for summernote
  - [summernote-emoji](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-emoji)
    - Dropdown list of my favorite emojiOne images, embedded as base64 strings for easy portability
+ - [summernote-emoji](https://github.com/trinhtam/summernote-emoji)
+   - Summernote emoji plugin pro
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
  - [summernote-ext-emoji-ajax](https://github.com/tylerecouture/summernote-ext-emoji-ajax/)
