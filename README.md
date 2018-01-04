@@ -74,6 +74,10 @@ This curated list is on very early stage. So, let's make it together!
    - Visually add Page-Breaks to editor content.
  - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
    - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
+ - [summernote-table-headers](https://github.com/tylerecouture/summernote-table-headers)
+   - Adds a button to the table popover allowing the user to toggle the first row as a table header. 
+ - [summernote-table-styles](https://github.com/tylerecouture/summernote-table-styles)
+   - Aadds a button to the table popover allowing the user to apply Bootstrap table styles. 
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [summernote-templates](https://github.com/DiemenDesign/summernote-templates)
