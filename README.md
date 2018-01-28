@@ -13,6 +13,7 @@ This curated list is on very early stage. So, let's make it together!
 - [Examples](#examples)
 - [Plugins](#plugins)
   - [Emojis](#emojis)
+  - [Formatting](#formatting)
   - [Insert](#insert)
   - [Misc](#misc)
   - [Special Characters & Icons](#special-characters-&-icons)
@@ -58,6 +59,36 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-ext-emoji-ajax](https://github.com/tylerecouture/summernote-ext-emoji-ajax/)
    - Uses the github emoji api and loads them via ajax.
 
+### Formatting
+ - [summernote-add-text-tags](https://github.com/tylerecouture/summernote-add-text-tags)
+   - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
+ - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
+   - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
+ - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
+   - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
+ - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
+   - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
+ - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
+   - Allows adding figure and figcaption to images, with removal when selected twice.
+ - [summernote-image-shapes](https://github.com/DiemenDesign/summernote-image-shapes)
+   - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
+ - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
+   - Adds a button to the image popover to edit title and alt attributes.
+ - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
+   - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
+ - [summernote-pagebreak](https://github.com/DiemenDesign/summernote-pagebreak)
+   - Visually add Page-Breaks to editor content.
+ - [summernote-paper-size](https://github.com/DiemenDesign/summernote-paper-size)
+   - Add dropdown button to toolbar to allow changing editable area to reflect paper sizes.
+ - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
+   - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
+ - [summernote-table-headers](https://github.com/tylerecouture/summernote-table-headers)
+   - Adds a button to the table popover allowing the user to toggle the first row as a table header. 
+ - [summernote-table-styles](https://github.com/tylerecouture/summernote-table-styles)
+   - Adds a button to the table popover allowing the user to apply Bootstrap table styles. 
+ - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
+   - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
+
 ### Insert
  - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
    - A summernote module to add user-friendly components to the WYSIWYG editor.
@@ -70,14 +101,6 @@ This curated list is on very early stage. So, let's make it together!
    - Plugin for adding map to Summernote. It allows users to search for places with autocomplete (Google Places API) and add an embed map of the selected place to editor.
  - [summernote-nugget](https://github.com/pHAlkaline/summernote-plugins/tree/master/plugins/nugget)
    - Pre-defined custom code nuggets. You can add your own nuggets and insert them in the editor in one click.
- - [summernote-pagebreak](https://github.com/DiemenDesign/summernote-pagebreak)
-   - Visually add Page-Breaks to editor content.
- - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
-   - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
- - [summernote-table-headers](https://github.com/tylerecouture/summernote-table-headers)
-   - Adds a button to the table popover allowing the user to toggle the first row as a table header. 
- - [summernote-table-styles](https://github.com/tylerecouture/summernote-table-styles)
-   - Adds a button to the table popover allowing the user to apply Bootstrap table styles. 
  - [summernote-template](https://github.com/Nanakii/summernote-plugins/tree/master/plugin/template)
    - Dropdown of pre-defined custom templates. You can add your own html templates and insert them in the editor in one click.
  - [summernote-templates](https://github.com/DiemenDesign/summernote-templates)
@@ -86,36 +109,18 @@ This curated list is on very early stage. So, let's make it together!
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
 
 ### Misc
- - [summernote-add-text-tags](https://github.com/tylerecouture/summernote-add-text-tags)
-   - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
- - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
-   - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
- - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
-   - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
    - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
- - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
-   - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
- - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
-   - Allows adding figure and figcaption to images, with removal when selected twice.
- - [summernote-image-shapes](https://github.com/DiemenDesign/summernote-image-shapes)
-   - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
- - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
-   - Adds a button to the image popover to edit title and alt attributes.
- - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
-   - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
  - [summernote-save-button](https://github.com/DiemenDesign/summernote-save-button)
    - Adds a Save Button when Summenote is used within a form
  - [summernote-seo](https://github.com/DiemenDesign/summernote-seo)
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
    - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
- - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
-   - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
@@ -136,10 +141,12 @@ This curated list is on very early stage. So, let's make it together!
 ## Themes and Skins
 - [summernote-libreicons-theme](https://github.com/DiemenDesign/LibreICONS/tree/master/themes/summernote)
    - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
+- [summernote-themes](https://github.com/DiemenDesign/summernote-themes)
+   - Themes for Summernote (Mainly the Lite version at the moment).
 
 ## Tutorials
-- [summernote-plugins a Guide](https://github.com/DiemenDesign/summernote-plugins)
-  - A Guide to installing, adding, and making Plugins for Summernote
+- [https://summernote.org/plugins](https://summernote.org/plugins)
+  - Official guide to installing, adding, and making Plugins for Summernote
 
 ## Contributing and License
 
