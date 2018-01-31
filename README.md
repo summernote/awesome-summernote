@@ -107,6 +107,8 @@ This curated list is on very early stage. So, let's make it together!
    - Add Toolbar Buttons to add Page and Block Templates from html template files.
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
+ - [summernote-at-mention](https://github.com/team-loxo/summernote-at-mention)
+   - Triggers a dropdown with autocomplete options whenever the `@` character is encountered in a new word.
 
 ### Misc
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
