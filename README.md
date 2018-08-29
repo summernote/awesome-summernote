@@ -113,6 +113,8 @@ This curated list is on very early stage. So, let's make it together!
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
 
 ### Misc
+ - [summernote-br](https://github.com/covistefan/summernote-br)
+   - Adds the option to create soft linebreaks by pressing SHIFT+RETURN at the same time
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
    - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
