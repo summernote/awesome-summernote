@@ -97,6 +97,8 @@ This curated list is on very early stage. So, let's make it together!
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
    - Summernote Plugin for elFinder File Manager
    - [Connector Instructions Wiki on elFinder's Repository](https://github.com/Studio-42/elFinder/wiki/Integration-with-Multiple-Summernote-%28fixed-functions%29)
+ - [summernote-list-of-links](https://github.com/lespoupeesrusses/summernote-list-of-links)
+   - A plugin for the Summernote WYSIWYG editor, that lets you choose from an external list of links, provided as json.
  - [summernote-loremipsum](https://github.com/DiemenDesign/summernote-loremipsum)
    - Add Toolbar button with Dropdown to insert random Lorem Ipsum Paragraph or Sentence, handy for placeholder text.
  - [summernote-map-plugin](https://github.com/maiyaporn/summernote-map-plugin)
@@ -109,8 +111,6 @@ This curated list is on very early stage. So, let's make it together!
    - Add Toolbar Buttons to add Page and Block Templates from html template files.
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
-- [summernote-list-of-links](https://github.com/lespoupeesrusses/summernote-list-of-links)
-   - A plugin for the Summernote WYSIWYG editor, that lets you choose from an external list of links, provided as json.
 
 ### Misc
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
