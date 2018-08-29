@@ -109,6 +109,8 @@ This curated list is on very early stage. So, let's make it together!
    - Add Toolbar Buttons to add Page and Block Templates from html template files.
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
+- [summernote-list-of-links](https://github.com/lespoupeesrusses/summernote-list-of-links)
+   - A plugin for the Summernote WYSIWYG editor, that lets you choose from an external list of links, provided as json.
 
 ### Misc
  - [summernote-drafts](https://github.com/MissAllSunday/summernoteDrafts)
