@@ -92,6 +92,8 @@ This curated list is on very early stage. So, let's make it together!
 ### Insert
  - [summernote-at-mention](https://github.com/team-loxo/summernote-at-mention)
    - Triggers a dropdown with autocomplete options whenever the `@` character is encountered in a new word.
+ - [summernote-audio](https://github.com/summernote/awesome-summernote)
+   - Summernote plugin to insert audio by URL or file upload
  - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
    - A summernote module to add user-friendly components to the WYSIWYG editor.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
