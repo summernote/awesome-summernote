@@ -64,6 +64,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds additional text-level semantic elements that are already provided with styling by Bootstrap 3 and 4, such as `<kbd>` and `<code>` etc.
  - [summernote-addclass](https://github.com/creativeprogramming/summernote-addclass)
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
+ - [summernote-case-converter](https://github.com/piranga8/summernote-case-converter)
+   - Adds a button to the Toolbar with a dropdown that allows case converting in any text in the editor.
  - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
