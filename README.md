@@ -98,6 +98,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote plugin to insert audio by URL or file upload
  - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
    - A summernote module to add user-friendly components to the WYSIWYG editor.
+ - [summernote-file](https://github.com/nobsod-freelance/summernote-file)
+   - Summernote plugin to insert files by URL or file upload
  - [summernote-gallery](https://github.com/eissasoubhi/summernote-gallery)
    - A simple bootstrap image-gallery modal to add images with the real path to the server instead of using base64 encoding.
  - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
