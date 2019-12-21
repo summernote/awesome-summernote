@@ -88,6 +88,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a button to the table popover allowing the user to toggle the first row as a table header. 
  - [summernote-table-styles](https://github.com/tylerecouture/summernote-table-styles)
    - Adds a button to the table popover allowing the user to apply Bootstrap table styles. 
+ - [summernote-text-manipulator](https://github.com/DiemenDesign/summernote-text-manipulator)
+   - Adds a Dropdown to the Toolbar to perform different actions to selected text. 
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
 
