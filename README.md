@@ -40,6 +40,10 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
+ - [@easylogic/react-summernote](https://github.com/easylogic/react-summernote)
+   - React extension for summernote (with full features, custom button and plugin)
+ - [@easylogic/svelte-summernote](https://github.com/easylogic/svelte-summernote)
+   - Svelte extension for summernote (with full features, custom button and plugin)
 
 ## Examples
  - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
