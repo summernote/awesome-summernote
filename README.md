@@ -72,24 +72,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a button to the Toolbar with a dropdown that allows case converting in any text in the editor.
  - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
- - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
-   - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
- - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
-   - Allows adding figure and figcaption to images, with removal when selected twice.
- - [summernote-image-shapes](https://github.com/DiemenDesign/summernote-image-shapes)
-   - Adds option with dropdown to the Image Popover to add or remove Bootstrap Image Classes for styling the look and behaviour of images.
- - [summernote-image-title](https://github.com/asiffermann/summernote-image-title)
-   - Adds a button to the image popover to edit title and alt attributes.
- - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
-   - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
- - [summernote-pagebreak](https://github.com/DiemenDesign/summernote-pagebreak)
-   - Visually add Page-Breaks to editor content.
- - [summernote-paper-size](https://github.com/DiemenDesign/summernote-paper-size)
-   - Add dropdown button to toolbar to allow changing editable area to reflect paper sizes.
- - [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
-   - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
- - [summernote-table-headers](https://github.com/tylerecouture/summernote-table-headers)
-   - Adds a button to the table popover allowing the user to toggle the first row as a table header. 
+ - [summernote-classes](https://github.com/DiemenDesign/summernote-classes)
+   - Adds functionality that displays selected element type, and if class language and class options are set will allow clicking on class names to toggle classes on elements.
  - [summernote-table-styles](https://github.com/tylerecouture/summernote-table-styles)
    - Adds a button to the table popover allowing the user to apply Bootstrap table styles. 
  - [summernote-text-manipulator](https://github.com/DiemenDesign/summernote-text-manipulator)
