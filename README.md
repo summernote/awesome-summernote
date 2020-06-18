@@ -70,6 +70,8 @@ This curated list is on very early stage. So, let's make it together!
    - With this plugin you will get a configurable button so you'll be able to toggle custom CSS classes in summernote elements (like the default 'style' button, but you can define custom CSS classes, eg. your favourite UI framework styling classes)
  - [summernote-case-converter](https://github.com/piranga8/summernote-case-converter)
    - Adds a button to the Toolbar with a dropdown that allows case converting in any text in the editor.
+ - [summernote-classes](https://github.com/DiemenDesign/summernote-classes)
+   - Adds functionality to display selected element with options to toggle classes as set in options.
  - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
