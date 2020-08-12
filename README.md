@@ -143,6 +143,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
    - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
+ - [summernote-ext-table](https://github.com/ksy11/summernote-ext-table)
+   - Adds table column/row resize, cell background-color change, cell merge, cell unmerge, border-color change, table margin change, table width/height reset.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
