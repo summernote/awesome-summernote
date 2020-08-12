@@ -174,6 +174,6 @@ This curated list is on very early stage. So, let's make it together!
 
 ## Contributing and License
 
-You are most welcome to [contribute](contributing.md) to this awesome summernote list as well. Big thanks to all [contributors](https://github.com/summernote/awesome-summernote/graphs/contributors) who have helped to build this list.
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome summernote list as well. Big thanks to all [contributors](https://github.com/summernote/awesome-summernote/graphs/contributors) who have helped to build this list.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
