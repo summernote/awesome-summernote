@@ -98,6 +98,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Dropdown to the Toolbar to perform different actions to selected text. 
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
+ - [summernote-current-style](https://github.com/arnaudlevy/summernote-current-style)
+   - Indicates the currently selected style in the dropdown
 
 ### Insert
  - [summernote-at-mention](https://github.com/team-loxo/summernote-at-mention)
