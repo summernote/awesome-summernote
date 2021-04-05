@@ -34,6 +34,8 @@ This curated list is on very early stage. So, let's make it together!
    - Ember-cli-summernote is an Ember CLI add-on. This addon actually converts summernote to an Ember component which is a re-usable unit.
  - [gnuboard5-summernote](https://github.com/easylogic/gnuboard5-summernote)
    - Editor Plugin for GnuBoard v5.
+ - [html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+   - WYSIWYG HTML Editor widget for Flutter applications, supports Android, iOS, and Web
  - [meteor-autoform-summernote](https://github.com/mpowaga/meteor-autoform-summernote)
    - Add WYSIWYG editor to your Meteor app.
  - [react-summernote](https://github.com/Vnkitaev/react-summernote)
