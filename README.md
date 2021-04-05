@@ -22,6 +22,10 @@ This curated list is on very early stage. So, let's make it together!
 - [Tutorials](#tutorials)
 
 ## Connectors
+ - [@easylogic/react-summernote](https://github.com/easylogic/react-summernote)
+   - React extension for summernote (with full features, custom button and plugin)
+ - [@easylogic/svelte-summernote](https://github.com/easylogic/svelte-summernote)
+   - Svelte extension for summernote (with full features, custom button and plugin)
  - [android-summernote](https://github.com/AvinashSKaranth/android-summernote)
    - WYSIWYG HTML Editor View with Android App
  - [angular-summernote](https://github.com/summernote/angular-summernote)
@@ -42,10 +46,6 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote adaptation for react
  - [summernote-rails](https://github.com/summernote/summernote-rails)
    - To gemify the summernote WYSIWYG editor for Rails >= 3.1
- - [@easylogic/react-summernote](https://github.com/easylogic/react-summernote)
-   - React extension for summernote (with full features, custom button and plugin)
- - [@easylogic/svelte-summernote](https://github.com/easylogic/svelte-summernote)
-   - Svelte extension for summernote (with full features, custom button and plugin)
 
 ## Examples
  - [summernote-meteor-example](https://github.com/hackerwins/summernote-meteor-example)
@@ -108,13 +108,13 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote plugin to insert audio by URL or file upload
  - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
    - A summernote module to add user-friendly components to the WYSIWYG editor.
+ - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
+   - Summernote Plugin for elFinder File Manager
+   - [Connector Instructions Wiki on elFinder's Repository](https://github.com/Studio-42/elFinder/wiki/Integration-with-Multiple-Summernote-%28fixed-functions%29)
  - [summernote-file](https://github.com/nobsod-freelance/summernote-file)
    - Summernote plugin to insert files by URL or file upload
  - [summernote-gallery](https://github.com/eissasoubhi/summernote-gallery)
    - A simple bootstrap image-gallery modal to add images with the real path to the server instead of using base64 encoding.
- - [summernote-ext-elfinder](https://github.com/semplon/summernote-ext-elfinder)
-   - Summernote Plugin for elFinder File Manager
-   - [Connector Instructions Wiki on elFinder's Repository](https://github.com/Studio-42/elFinder/wiki/Integration-with-Multiple-Summernote-%28fixed-functions%29)
  - [summernote-list-of-links](https://github.com/lespoupeesrusses/summernote-list-of-links)
    - A plugin for the Summernote WYSIWYG editor, that lets you choose from an external list of links, provided as json.
  - [summernote-loremipsum](https://github.com/DiemenDesign/summernote-loremipsum)
@@ -137,6 +137,8 @@ This curated list is on very early stage. So, let's make it together!
    - Allows users to save and load drafts directly on the editor.
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
    - Add print button on toolbar. This allows summernote to print its own document, not whole page.
+ - [summernote-ext-table](https://github.com/ksy11/summernote-ext-table)
+   - Adds table column/row resize, cell background-color change, cell merge, cell unmerge, border-color change, table margin change, table width/height reset.
  - [summernote-floats-bs](https://github.com/MarcosBL/summernote-floats-bs)
    - Replace (or extend) image popover buttons (using float: attributes) with a new set of buttons that inject proper Bootstrap classes (pull-right / pull-left / none).
  - [summernote-save-button](https://github.com/DiemenDesign/summernote-save-button)
@@ -145,8 +147,6 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
    - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
- - [summernote-ext-table](https://github.com/ksy11/summernote-ext-table)
-   - Adds table column/row resize, cell background-color change, cell merge, cell unmerge, border-color change, table margin change, table width/height reset.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
