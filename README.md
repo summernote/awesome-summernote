@@ -115,6 +115,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote plugin to insert files by URL or file upload
  - [summernote-gallery](https://github.com/eissasoubhi/summernote-gallery)
    - A simple bootstrap image-gallery modal to add images with the real path to the server instead of using base64 encoding.
+ - [summernote extended link editor](https://github.com/RichardSquires/summernote-link-editor)
+   - Replicates and extends the summernote link editor to add additional link types.
  - [summernote-list-of-links](https://github.com/lespoupeesrusses/summernote-list-of-links)
    - A plugin for the Summernote WYSIWYG editor, that lets you choose from an external list of links, provided as json.
  - [summernote-loremipsum](https://github.com/DiemenDesign/summernote-loremipsum)
