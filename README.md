@@ -149,6 +149,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a drop down with Selector for Extracting Keywords or Copying Highlighted Text to Description or Caption Elements.
  - [summernote-text-findnreplace](https://github.com/DiemenDesign/summernote-text-findnreplace)
    - Adds an area to the Toolbar when plugin button is select to allow find and replace in the editor area.
+ - [summernote-sticky-toolbar](https://github.com/ilyasozkurt/summernote-sticky-toolbar)
+   - Allows you to make the toolbar sticky with simple options.
 
 ### Special Characters & Icons
  - [summernote-ext-specialchars](https://github.com/JustinEldracher/summernote-plugins/tree/master/summernote-ext-specialchars)
