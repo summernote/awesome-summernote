@@ -104,6 +104,8 @@ This curated list is on very early stage. So, let's make it together!
 ### Insert
  - [summernote-at-mention](https://github.com/team-loxo/summernote-at-mention)
    - Triggers a dropdown with autocomplete options whenever the `@` character is encountered in a new word.
+ - [summernote-handlebars-autocomplete](https://github.com/ruiluntran/summernote-handlebars-autocomplete)
+   - Triggers a dropdown with handlebar-variables whenever the `{{` character is typed.
  - [summernote-audio](https://github.com/taalendigitaal/summernote-audio)
    - Summernote plugin to insert audio by URL or file upload
  - [summernote-bricks](https://github.com/eissasoubhi/summernote-bricks)
