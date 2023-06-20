@@ -74,6 +74,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds functionality to display selected element with options to toggle classes as set in options.
  - [summernote-cleaner](https://github.com/DiemenDesign/summernote-cleaner)
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
+ - [summernote-current-style](https://github.com/arnaudlevy/summernote-current-style)
+   - Indicates the currently selected style in the dropdown
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
  - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
@@ -98,8 +100,6 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Dropdown to the Toolbar to perform different actions to selected text. 
  - [summernote-video-attributes](https://github.com/DiemenDesign/summernote-video-attributes)
    - Adds a Toolbar Button for Allowing to edit Video Attributes before inserting into Editor.
- - [summernote-current-style](https://github.com/arnaudlevy/summernote-current-style)
-   - Indicates the currently selected style in the dropdown
 
 ### Insert
  - [summernote-at-mention](https://github.com/team-loxo/summernote-at-mention)
