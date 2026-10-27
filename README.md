@@ -78,6 +78,10 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a Button to toolbar that when used cleans the MS Word Crud from the editor text.
  - [summernote-current-style](https://github.com/arnaudlevy/summernote-current-style)
    - Indicates the currently selected style in the dropdown
+ - [summernote-ext-imagealt](https://github.com/kevinbruce/summernote-ext-imagealt)
+   - Alt text and a title for images from the image popover, with "decorative" as an explicit choice (an empty alt) and no saving with neither.
+ - [summernote-ext-tableprops](https://github.com/kevinbruce/summernote-ext-tableprops)
+   - Table, row and cell properties in one dialog: width, borders, colors, alignment, padding and header rows (th with scope). Applies only what you change.
  - [summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes)
    - This is a forked and extended version of "summernote-image-title", for those that want a little more control over editable attributes for Images.
  - [summernote-image-captionit](https://github.com/DiemenDesign/summernote-image-captionit)
